@@ -1,2 +1,2 @@
-# WorldRobotOlympaid2019
+# WorldRobotOlympiad2019
 WRO2019 Team DoubleStorms
